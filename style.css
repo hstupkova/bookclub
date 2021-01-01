@@ -55,12 +55,17 @@ body {
   font-size: 20px;
 }
 
+.book__pitch {
+  line-height: 1.5;
+}
+
 .book__grtitle {
   font-size: 16px;
 }
 
 .book__grblurb {
   font-size: 14px;
+  line-height: 1.5;
 }
 
 .book__quote {
