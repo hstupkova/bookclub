@@ -55,7 +55,8 @@ body {
   font-size: 20px;
 }
 
-.book__pitch {
+.book__pitch,
+.book__pages {
   line-height: 1.5;
 }
 
